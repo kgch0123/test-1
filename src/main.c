@@ -5,7 +5,7 @@ void nine_nine_multiple(){
 
     printf("Multiplication Table");
     for(i=1;i<=9;i++){
-        printf("\n======================\n");
+        printf("\n><======================\n");
         for(j=1;j<=9;j++){
             printf("%d * %d = %d\n",i,j,i*j);
         }
